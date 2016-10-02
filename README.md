@@ -1,1 +1,1 @@
-# sem-master-mind
+# seminar-master-mind
